@@ -1,0 +1,14 @@
+layout_spectrum: 0.3331880527548492
+typography_spectrum: 0.38921159505844116
+color:
+  brandStrength: 0.4746310885529965
+  lightness: 0.5892305583693087
+  saturation: 0.7336322069168091
+  rhythmicContrast: 0.46266314573585987
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: smartypup
