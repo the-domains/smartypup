@@ -1,4 +1,3 @@
-layout_spectrum: 0.3331880527548492
 typography_spectrum: 0.38921159505844116
 color:
   brandStrength: 0.4746310885529965
@@ -11,4 +10,12 @@ color:
     - '#F7E967'
     - '#A9CF54'
     - '#588F27'
+layout_spectrum: 0.3331880527548492
+author:
+  name: fawn pierre
+  email: fawn@smartypup.com
+  url: smartypup.com
+logo: null
 name: smartypup
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3469044-cdea-4f8c-8162-a679f39a7fa4.png
